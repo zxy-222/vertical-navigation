@@ -114,3 +114,14 @@
   -o-transition: all .4s ease;
   -ms-transition: all 0.4s ease;
 }
+#menu #open .navBox ul li .secondary h3:hover {
+  background-color: #1acbfc;
+  color: #4381ff;
+  border-left: 1px solid  #4381ff;
+}
+
+#menu #open .navBox ul li .secondary .seconFocus {
+  background-color: #e0f1ff;
+  color: #4381ff;
+  border-left: 1px solid  #4381ff;
+}
